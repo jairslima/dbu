@@ -1,0 +1,15 @@
+# DBU - Database Utility
+# Harbour 3.0 build project
+# Build: hbmk2 dbu.hbp
+
+-gtwvt
+
+dbu.prg
+dbuutil.prg
+dbuhelp.prg
+dbuview.prg
+dbuindx.prg
+dbuedit.prg
+dbucopy.prg
+dbustru.prg
+dbunet.prg

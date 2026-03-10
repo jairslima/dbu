@@ -1,0 +1,8 @@
+# Compiled output
+*.EXE
+*.OBJ
+*.LNK
+
+# Harbour temp files
+*.c
+*.ppo
